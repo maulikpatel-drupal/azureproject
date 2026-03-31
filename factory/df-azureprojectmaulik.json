@@ -1,0 +1,9 @@
+{
+	"name": "df-azureprojectmaulik",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "20246e85-c641-41f0-947e-7fdc9640624d",
+		"tenantId": "e26b7638-1e86-470f-be54-fa5b78fbfb4c"
+	}
+}
